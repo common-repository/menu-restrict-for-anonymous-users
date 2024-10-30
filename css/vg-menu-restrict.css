@@ -1,0 +1,27 @@
+/* Generic Styling, for Desktops/Laptops */
+
+.selected-Menu{
+margin-top:2%;
+
+}
+
+.menuRestrict-table { 
+	
+	border-collapse: collapse; 
+}
+/* Zebra striping */
+.menuRestrict-table tr:nth-of-type(odd) { 
+	background: #ffffff; 
+}
+
+.menuRestrict-table td { 
+	padding: 9px; 
+	border: 1px solid #ccc; 
+	text-align: left; 
+}
+.menuRestrict-table th { 
+	padding: 9px; 
+	border: 1px solid #ccc; 
+	text-align: left; 
+}	
+       
